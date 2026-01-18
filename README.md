@@ -1,8 +1,6 @@
 # 🎯 AI Marketing Angle Maker
 **with AutoGen Multi-Agent System**
 
-🌐 **See the Live Application**: [https://ai-marketing-angle-maker.vercel.app/](https://ai-marketing-angle-maker.vercel.app/)
-
 > **Turn live Google Trends signals into jaw-dropping marketing angles in seconds. A swarm of AI agents researches trends, analyzes audience intent, and crafts on-brand hooks, headlines, and copy variants for your campaigns.** ⚡
 
 ---
@@ -187,17 +185,7 @@
 
 ---
 
-## 📞 Support
-
-- 📧 **Email**: support@ai-marketing-angle-maker.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-marketing-angle-maker/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-marketing-angle-maker/discussions)
-
----
-
 <div align="center">
-
-**⭐ Star this repo if you find it useful!**
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
